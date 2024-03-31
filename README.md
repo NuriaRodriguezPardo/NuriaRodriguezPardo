@@ -34,4 +34,6 @@ Este es un indice de mis trabajos ACABADOS para acceder facilmente:
 - [Practica 3.3 ](https://github.com/NuriaRodriguezPardo/P3A_WifiFicheros): WiFi subida y bajada de ficheros
 - [Practica 3.4 ](https://github.com/NuriaRodriguezPardo/P3B_BluetoothESP32-S1): Bluetooth con ESP32-S1
 <!-- - [Practica 3.5](https://github.com/NuriaRodriguezPardo/P3B_BluetoothESP32-S3): Bluetooth con ESP32-S3 -->
+### Practica 4: 
+- [Practica 4.1 ](https://github.com/NuriaRodriguezPardo/P4_BasicSistemasOperativosTiempoReal): Sistemas operativos en tiempo real (basico)
 
