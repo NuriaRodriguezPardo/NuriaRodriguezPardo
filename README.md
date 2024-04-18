@@ -39,6 +39,6 @@ Este es un indice de mis trabajos ACABADOS para acceder facilmente:
 
 <!-- - [Practica 4.2 ](https://github.com/NuriaRodriguezPardo/P4_SistemasOperativosTiempoRealLeds): Sistemas operativos en tiempo real (leds) -->
 ### Extra: 
-[IntroOlaColores](https://github.com/NuriaRodriguezPardo/OlaColores_LEDs): Introducción Ola colores
+[IntroOlaColores]([https://github.com/NuriaRodriguezPardo/OlaColores_LEDs](https://github.com/NuriaRodriguezPardo/IntroduccionOlaColores)): Introducción Ola colores
  - [OlaColores_1](https://github.com/NuriaRodriguezPardo/OlaColores_LEDs): Ola colores con LEDs 
  - [OlaColores_2](https://github.com/NuriaRodriguezPardo/OlaColores_PaginaWebSimulacion): Ola colores en una simulacion creada en una pagina web (WiFi) 
