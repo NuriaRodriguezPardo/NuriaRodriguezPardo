@@ -36,8 +36,7 @@ Este es un indice de mis trabajos ACABADOS para acceder facilmente:
 <!-- - [Practica 3.5](https://github.com/NuriaRodriguezPardo/P3B_BluetoothESP32-S3): Bluetooth con ESP32-S3 -->
 ### Practica 4: 
 - [Practica 4.1 ](https://github.com/NuriaRodriguezPardo/P4_BasicSistemasOperativosTiempoReal): Sistemas operativos en tiempo real (basico)
-
-<!-- - [Practica 4.2 ](https://github.com/NuriaRodriguezPardo/P4_SistemasOperativosTiempoRealLeds): Sistemas operativos en tiempo real (leds) -->
+- [Practica 4.2 ](https://github.com/NuriaRodriguezPardo/P4_SistemasOperativosTiempoRealLeds): Sistemas operativos en tiempo real (leds)
 ### Extra: 
 [IntroOlaColores](https://github.com/NuriaRodriguezPardo/IntroduccionOlaColores): Introducción Ola colores
  - [OlaColores_1](https://github.com/NuriaRodriguezPardo/OlaColores_LEDs): Ola colores con LEDs 
