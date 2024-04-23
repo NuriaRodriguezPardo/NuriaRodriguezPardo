@@ -41,9 +41,11 @@ Este es un indice de mis trabajos ACABADOS para acceder facilmente:
 ### Practica 5: 
 - [Practica 5.1 ](https://github.com/NuriaRodriguezPardo/P5A_EscanerI2C): Escaner I2C (I)
 - [Practica 5.2 ](https://github.com/NuriaRodriguezPardo/P5B_I2C): I2C (II)
+-->
 ### Practica 6: 
 - [Practica 6.1 ](https://github.com/NuriaRodriguezPardo/P6A_LecturaEscrituraSD): Lectura i escritura SD
 - [Practica 6.2 ](https://github.com/NuriaRodriguezPardo/P6B_LecturaEtiquetaRFID): Lectura etiqueta RFID
+<!--
 - [Practica 6.3 ](https://github.com/NuriaRodriguezPardo/P6_MejoraNota_SD_RFID_PaginaWeb): SD y RFID pagina web
 ### Practica 7: 
 - [Practica 7.1 ](https://github.com/NuriaRodriguezPardo/P7A_ReproduccionMemoriaInterna): Reproduccion memoria interna
