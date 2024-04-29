@@ -39,9 +39,7 @@ Este es un indice de mis trabajos ACABADOS para acceder facilmente:
 - [Practica 4.2 ](https://github.com/NuriaRodriguezPardo/P4_SistemasOperativosTiempoRealLeds): Sistemas operativos en tiempo real (leds)
 ### Practica 5: 
 - [Practica 5.1 ](https://github.com/NuriaRodriguezPardo/P5A_EscanerI2C): Escaner I2C (I)
-<!--
-- [Practica 5.2 ](https://github.com/NuriaRodriguezPardo/P5B_I2C): I2C (II)
--->
+- [Practica 5.2 ](https://github.com/NuriaRodriguezPardo/P5B_I2C_LedsOrganicos): I2C (II)
 ### Practica 6: 
 - [Practica 6.1 ](https://github.com/NuriaRodriguezPardo/P6A_LecturaEscrituraSD): Lectura i escritura SD
 - [Practica 6.2 ](https://github.com/NuriaRodriguezPardo/P6B_LecturaEtiquetaRFID): Lectura etiqueta RFID
