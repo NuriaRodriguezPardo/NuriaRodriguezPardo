@@ -37,9 +37,9 @@ Este es un indice de mis trabajos ACABADOS para acceder facilmente:
 ### Practica 4: 
 - [Practica 4.1 ](https://github.com/NuriaRodriguezPardo/P4_BasicSistemasOperativosTiempoReal): Sistemas operativos en tiempo real (basico)
 - [Practica 4.2 ](https://github.com/NuriaRodriguezPardo/P4_SistemasOperativosTiempoRealLeds): Sistemas operativos en tiempo real (leds)
-<!--
 ### Practica 5: 
 - [Practica 5.1 ](https://github.com/NuriaRodriguezPardo/P5A_EscanerI2C): Escaner I2C (I)
+<!--
 - [Practica 5.2 ](https://github.com/NuriaRodriguezPardo/P5B_I2C): I2C (II)
 -->
 ### Practica 6: 
