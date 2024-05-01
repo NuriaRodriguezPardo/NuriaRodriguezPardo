@@ -51,6 +51,8 @@ Este es un indice de mis trabajos ACABADOS para acceder facilmente:
 - [Practica 7.2 ](https://github.com/NuriaRodriguezPardo/P7B_WebRadio): Web radio
 - [Practica 7.3 ](https://github.com/NuriaRodriguezPardo/P7C_ReproducirArchivoWAVE): Reproducir archivo WAVE
 -->
+### Practica 8:
+- [Practica 8.1 ](https://github.com/NuriaRodriguezPardo/P8_CruceMonitorTeclado): UART
 ### Extra: 
 [IntroOlaColores](https://github.com/NuriaRodriguezPardo/IntroduccionOlaColores): Introducción Ola colores
  - [OlaColores_1](https://github.com/NuriaRodriguezPardo/OlaColores_LEDs): Ola colores con LEDs 
