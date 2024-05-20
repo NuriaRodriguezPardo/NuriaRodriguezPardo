@@ -56,4 +56,8 @@ Este es un indice de mis trabajos ACABADOS para acceder facilmente:
 ### Extra: 
 [IntroOlaColores](https://github.com/NuriaRodriguezPardo/IntroduccionOlaColores): Introducción Ola colores
  - [OlaColores_1](https://github.com/NuriaRodriguezPardo/OlaColores_LEDs): Ola colores con LEDs 
- - [OlaColores_2](https://github.com/NuriaRodriguezPardo/OlaColores_PaginaWebSimulador): Ola colores en una simulacion creada en una pagina web (WiFi) 
+ - [OlaColores_2](https://github.com/NuriaRodriguezPardo/OlaColores_PaginaWebSimulador): Ola colores en una simulacion creada en una pagina web (WiFi)
+<!--
+### Proyecto: 
+- [Traductor](https://github.com/NuriaRodriguezPardo/Project_Translate): Proyecto final.
+-->
