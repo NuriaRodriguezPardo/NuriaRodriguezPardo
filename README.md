@@ -19,8 +19,6 @@ Lenguajes de programación utilizados en mis trabajos:
 ![Markdown](https://img.shields.io/badge/Markdown-grey)
 ![SQL](https://img.shields.io/badge/SQL-lightblue)
 
-<div style="border: 2px solid blue; padding: 10px; width: fit-content;">
-
 ## Mis proyectos: 
 Este es un indice de mis trabajos ACABADOS para acceder facilmente:
 ### Practica 1: 
@@ -64,5 +62,3 @@ Este es un indice de mis trabajos ACABADOS para acceder facilmente:
 ### Proyecto: 
 - [Traductor](https://github.com/NuriaRodriguezPardo/Project_Translate): Proyecto final.
 -->
-
-</div>
