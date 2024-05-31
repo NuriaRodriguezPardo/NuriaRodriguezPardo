@@ -46,9 +46,9 @@ Este es un indice de mis trabajos ACABADOS para acceder facilmente:
 - [Practica 6.2 ](https://github.com/NuriaRodriguezPardo/P6B_LecturaEtiquetaRFID): Lectura etiqueta RFID
 - [Practica 6.3 ](https://github.com/NuriaRodriguezPardo/P6_MejoraNota_SD_RFID_PaginaWeb): SD y RFID pagina web
 ### Practica 7: 
-<!--
 - [Practica 7.1 ](https://github.com/NuriaRodriguezPardo/P7A_ReproduccionMemoriaInterna): Reproduccion memoria interna
 - [Practica 7.2 ](https://github.com/NuriaRodriguezPardo/P7B_WebRadio): Web radio
+<!--
 - [Practica 7.3 ](https://github.com/NuriaRodriguezPardo/P7C_ReproducirArchivoWAVE): Reproducir archivo WAVE
 -->
 - [Practica 7.4 ](https://github.com/NuriaRodriguezPardo/P7_Extra_Microfono_SD): Extra. guardar SD archivo micrófono
