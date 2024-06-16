@@ -61,4 +61,7 @@ Este es un indice de mis trabajos ACABADOS para acceder facilmente:
 <!--
 ### Proyecto: 
 - [Traductor](https://github.com/NuriaRodriguezPardo/Project_Translate): Proyecto final.
+- [Only speech to text]
+- [Only translate]
+- [Only text to speech]
 -->
