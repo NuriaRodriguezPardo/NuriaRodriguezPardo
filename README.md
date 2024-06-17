@@ -63,3 +63,4 @@ Este es un indice de mis trabajos ACABADOS para acceder facilmente:
 - [Only speech to text](https://github.com/NuriaRodriguezPardo/Only_SpeechToText)
 - [Only translate](https://github.com/NuriaRodriguezPardo/Only_Translate)
 - [Only text to speech](https://github.com/NuriaRodriguezPardo/Only_TextToSpeech)
+- [Only pagina web](https://github.com/NuriaRodriguezPardo/Only_PaginaWeb)
