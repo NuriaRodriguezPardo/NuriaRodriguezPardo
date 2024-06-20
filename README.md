@@ -58,6 +58,7 @@ Este es un indice de mis trabajos ACABADOS para acceder facilmente:
  - [OlaColores_2](https://github.com/NuriaRodriguezPardo/OlaColores_PaginaWebSimulador): Ola colores en una simulacion creada en una pagina web (WiFi)
 ### Proyecto: (NO ACABADO)
 - [Traductor](https://github.com/NuriaRodriguezPardo/Project_Translate): Proyecto final.
+- [Only talk Base64](https://github.com/NuriaRodriguezPardo/Only_TalkBase64)
 - [Only speech to text](https://github.com/NuriaRodriguezPardo/Only_SpeechToText)
 - [Only translate](https://github.com/NuriaRodriguezPardo/Only_Translate)
 - [Only text to speech](https://github.com/NuriaRodriguezPardo/Only_TextToSpeech)
