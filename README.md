@@ -1,7 +1,7 @@
 # Bienvenido a mi perfil!
 
 Hola! Soy Núria, una estudiante universitaria apasionada por la programación... <br>
-En este perfil podrás encontrar mis trabajos de una asignatura llamada "Procesadores digitales".<br><br>
+En este perfil podrás encontrar mis trabajos de diferentes asignaturas u otros proyectos personales.<br><br>
 
 ## Lenguajes Utilizados
 
