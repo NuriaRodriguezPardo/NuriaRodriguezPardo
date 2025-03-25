@@ -11,6 +11,7 @@ Lenguajes de programación utilizados en mis trabajos:
 
 ### Lenguages aprendidos: 
 ![C++](https://img.shields.io/badge/C++-blue)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![PHP](https://img.shields.io/badge/PHP-purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
