@@ -9,7 +9,7 @@ Lenguajes de programación utilizados en mis trabajos:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuriaRodriguezPardo&layout=compact)](https://github.com/NuriaRodriguezPardo)
 
-### Lenguages aprendidos: 
+### Competencias aprendidas: 
 
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
@@ -21,10 +21,8 @@ Lenguajes de programación utilizados en mis trabajos:
 ![SQL](https://img.shields.io/badge/SQL-lightblue?logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-550000?logo=Dart&logoColor=white)
 
-
-## Asignaturas u otros: 
-
-- [Quatrimestre 4: ](https://github.com/NuriaRodriguezPardo/ProcesadoDigital): Procesado Digital
-- [Quatrimestre 6: ](https://github.com/NuriaRodriguezPardo/AlgorismiaProgramacionAudiovisual): Algorísmia y programación audiovisual
+**En los repositorios fijados veréis algunas de las asignaturas cursadas durante el grado.**
 
