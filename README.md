@@ -7,7 +7,6 @@ En este perfil podrás encontrar mis trabajos de diferentes asignaturas u otros 
 
 * **Email:** n.r.pardo04@gmail.com
 * **LinkedIn:** [Núria Rodríguez Pardo](https://www.linkedin.com/in/núria-rodríguez-869806275)
-* **Instagram:** [nuria.r.p](https://www.instagram.com/nuria.r.p/)
 * **Teléfono:** 699881403
 
 ## Formación Académica
