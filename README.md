@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hey, I'm Núria 👋</h1>
+<h1>Hey, I'm Núria</h1>
 <p>Audiovisual Systems & Telecommunications Engineering student at UPC · ESEIAAT<br/>
 Passionate about building things at the intersection of <strong>programming</strong>, <strong>networks</strong>, and <strong>audio/video technology</strong>.</p>
 <a href="mailto:n.r.pardo04@gmail.com"><img src="https://img.shields.io/badge/Gmail-n.r.pardo04%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
