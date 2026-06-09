@@ -7,11 +7,6 @@ Passionate about building things at the intersection of <strong>programming</str
 <a href="https://www.linkedin.com/in/núria-rodríguez-869806275"><img src="https://img.shields.io/badge/LinkedIn-Núria%20Rodríguez%20Pardo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </div>
 
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-n.r.pardo04@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:n.r.pardo04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Núria%20Rodríguez%20Pardo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/núria-rodríguez-869806275)
-
 ## Education
 
 **B.Eng. in Audiovisual Systems & Telecommunications Engineering**   
