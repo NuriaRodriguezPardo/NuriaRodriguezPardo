@@ -26,6 +26,7 @@ UPC · ESEIAAT &nbsp;|&nbsp; Sep 2022 – Jun 2026 *(expected)*
 
 | Project | Topics | Stack |
 |---|---|---|
+| [**TFG**](https://github.com/NuriaRodriguezPardo/Music-Genre-Identification-with-Deep-Learning) | Music Genre Identification with Deep Learning | [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-DL-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/) [![XGBoost](https://img.shields.io/badge/XGBoost-Tuned-2E8B57)](https://xgboost.readthedocs.io/) [![MERT](https://img.shields.io/badge/MERT-Self--Supervised-8A2BE2)](https://arxiv.org/abs/2306.00107) [![Datasets](https://img.shields.io/badge/Datasets-GTZAN%20%7C%20FMA-orange)](#️-two-worlds-gtzan-vs-fma) [![License](https://img.shields.io/badge/License-MIT-blue)](#-license)
 | [**Digital Processing**](https://github.com/NuriaRodriguezPardo/ProcesadoDigital) | Signal & digital processing labs | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 | [**AV Programming & Algorithms**](https://github.com/NuriaRodriguezPardo/AlgorismiaProgramacionAudiovisual) | Algorithms for audiovisual programming | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**AI for Video & Audio**](https://github.com/NuriaRodriguezPardo/InteligenciaArtificialVideoAudio) | AI & ML applied to AV media | Generative AI |
