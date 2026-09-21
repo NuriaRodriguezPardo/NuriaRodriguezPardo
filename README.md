@@ -23,7 +23,7 @@ UPC · ESEIAAT &nbsp;|&nbsp; Sep 2022 – Jun 2026 *(expected)*
 | **Telecommunications** | Networking · TCP/IP & UDP · MATLAB Simulation |
 | **3D Modeling & Design** | ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?logo=solidworks&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F48024?logo=autodesk&logoColor=white) ![Maya](https://img.shields.io/badge/Maya-202020?logo=autodesk&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white) |
 
-## Featured Repositories
+## Academic Repositories
 
 | Project | Topics | Stack |
 |---|---|---|
@@ -34,7 +34,11 @@ UPC · ESEIAAT &nbsp;|&nbsp; Sep 2022 – Jun 2026 *(expected)*
 | [**Engineering Projects**](https://github.com/NuriaRodriguezPardo/PE-MonitoratgeEnllumenatPublicEfici-nciaEnllumenatPublicRGB) | RGB public lighting monitor | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-00979D?style=flat-square&logo=platformio&logoColor=white) |
 | [**Mobile Programming**](https://github.com/NuriaRodriguezPardo/PDM-biblioteca) | Flutter library management app | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | [**Speech Technology**](https://github.com/vonmartins/tecparla) | Speech processing & recognition | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
- 
+
+## Personal Repositories
+| Project | Topics | Stack |
+|---|---|---|
+| [**Widget Calendario**](https://github.com/NuriaRodriguezPardo/Widget-Calendario) | Widget calendario utilizando rainmeter | [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 ---
  
 <div align="center">
