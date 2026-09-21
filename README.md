@@ -38,7 +38,6 @@ UPC · ESEIAAT &nbsp;|&nbsp; Sep 2022 – Jun 2026 *(expected)*
 ## Personal Repositories
 | Project | Topics | Stack |
 |---|---|---|
-| 
 | [**Widget Calendario**](https://github.com/NuriaRodriguezPardo/Widget-Calendario) | Widget calendario utilizando rainmeter | [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Lua](https://shields.io)](https://lua.org) |
 ---
  
