@@ -31,7 +31,7 @@
 * **M.Sc. in Innovation and Research in Informatics (Advanced Computing)**  
   *UPC · FIB* &nbsp;|&nbsp; `Current`
 * **B.Eng. in Audiovisual Systems & Telecommunications Engineering**  
-  *UPC · ESEIAAT* &nbsp;|&nbsp; `Sep 2022 – Jun 2026` *(expected)*
+  *UPC · ESEIAAT* &nbsp;|&nbsp; `Sep 2022 – Jun 2026`
 
 ---
 
